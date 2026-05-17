@@ -1,0 +1,6 @@
+{
+  "name": "Pacify: Technical Blueprint & Demo",
+  "description": "A production-ready technical architecture for a co-op horror game, featuring a real-time 3D demo and modular C# script architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
